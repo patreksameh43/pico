@@ -1,0 +1,6 @@
+{
+  "name": "RAMA OPTICS - Premium Eyewear",
+  "description": "Luxurious minimal eyewear e-commerce store with bespoke lens customization, prescription upload, interactive frame catalog, and full order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
